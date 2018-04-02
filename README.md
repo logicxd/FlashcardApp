@@ -1,4 +1,6 @@
 <h1>Flashcard Application</h1>
+
+[Link to blog](https://logicxd.github.io/codemoe/Blogs/Flashcard).
 A flashcard program for computer. Also has functions to save/load, help study, test youself, and multiple choice tests.
 
 <h3>Functions</h3>
